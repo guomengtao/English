@@ -108,7 +108,7 @@ E-Mail and Address
 97.  side
 98.  been
 99.  now
-100.  find     😁
+100.  find     
 101.  any
 102.  new
 103.  work
@@ -116,7 +116,7 @@ E-Mail and Address
 105.  take
 106.  get
 107.  place
-108.  made     (Is it the pass of make ?)
+108.  made     (Is it the pass of make ?)😳
 109.  live
 110.  where
 111.  after
@@ -173,7 +173,7 @@ E-Mail and Address
 162.  home
 163.  read
 164.  hand
-165.  port ?
+165.  port ?😳
 166.  large
 167.  spell
 168.  add
@@ -232,7 +232,7 @@ E-Mail and Address
 221.  keep
 222.  eye
 223.  never
-224.  last🤓
+224.  last
 225.  door
 226.  between
 227.  city
@@ -241,7 +241,7 @@ E-Mail and Address
 230.  since
 231.  hard
 232.  start
-233.  might
+233.  might🐢
 234.  story
 235.  saw
 236.  far
@@ -251,7 +251,7 @@ E-Mail and Address
 240.  late
 241.  run
 242.  don't
-243.  while
+243.  while 🐢
 244.  press
 245.  close
 246.  night
@@ -260,7 +260,7 @@ E-Mail and Address
 249.  few
 250.  stop
 251.  open
-252.  seem (what? )
+252.  seem (what? )🐍
 253.  together
 254.  next
 255.  white
@@ -269,12 +269,12 @@ E-Mail and Address
 258.  got
 259.  walk
 260.  example
-261.  ease ++
+261.  ease ++🐠
 262.  paper
 263.  often
 264.  always
 265.  music
-266.  those
+266.  those🐬
 267.  both
 268.  mark
 269.  book
@@ -312,14 +312,14 @@ E-Mail and Address
 301.  enough
 302.  plain
 303.  girl
-304.  usual
+304.  usual 
 305.  young
 306.  ready
-307.  above
-308.  ever
+307.  above 1🪱2🦅3🐺
+308.  ever 1🦊
 309.  red
 310.  list
-311.  though
+311.  though🐛
 312.  feel
 313.  talk
 314.  bird
@@ -327,16 +327,16 @@ E-Mail and Address
 316.  body
 317.  dog
 318.  family
-319.  direct
+319.  direct🐌
 320.  pose
 321.  leave
 322.  song
-323.  measure
-324.  state
+323.  measure🐴
+324.  state 23🐮
 325.  product
 326.  black
 327.  short
-328.  numeral
+328.  numeral (neverl rameber saw this word )🐭
 329.  class
 330.  wind
 331.  question
@@ -350,13 +350,13 @@ E-Mail and Address
 339.  fire
 340.  south
 341.  problem
-342.  piece
+342.  piece 223🐼
 343.  told
 344.  knew
 345.  pass
-346.  farm
+346.  farm 1🦊
 347.  top
-348.  whole
+348.  whole -🐰
 349.  king
 350.  size
 351.  heard
@@ -364,7 +364,7 @@ E-Mail and Address
 353.  hour
 354.  better
 355.  TRUE
-356.  during
+356.  during -🦁
 357.  hundred
 358.  am
 359.  remember
@@ -374,7 +374,7 @@ E-Mail and Address
 363.  west
 364.  ground
 365.  interest
-366.  reach
+366.  reach --🐣
 367.  fast
 368.  five
 369.  sing
@@ -386,26 +386,26 @@ E-Mail and Address
 375.  morning
 376.  ten
 377.  simple
-378.  several
-379.  vowel
-380.  toward
-381.  war
-382.  lay
-383.  against
-384.  pattern
+378.  several -🐱
+379.  vowel🐰
+380.  toward🐰
+381.  war🐰
+382.  lay🦊
+383.  against🦆
+384.  pattern🐒
 385.  slow
 386.  center
 387.  love
 388.  person
 389.  money
 390.  serve
-391.  appear
+391.  appear🦖
 392.  road
 393.  map
 394.  science
 395.  rule
-396.  govern
-397.  pull
+396.  govern -🐓
+397.  pull 
 398.  cold
 399.  notice
 400.  voice
@@ -413,64 +413,64 @@ E-Mail and Address
 402.  power
 403.  town
 404.  fine
-405.  certain
+405.  certain 🪶
 406.  fly
 407.  unit
 408.  lead
 409.  cry
-410.  dark
+410.  dark -🦚
 411.  machine
 412.  note
 413.  wait
 414.  plan
-415.  figure
+415.  figure🦩
 416.  star
 417.  box
 418.  noun
-419.  field
+419.  field🦩
 420.  rest
-421.  correct
-422.  able
-423.  pound
+421.  correct🦜
+422.  able --🦓
+423.  pound -🐠
 424.  done
 425.  beauty
 426.  drive
-427.  stood
-428.  contain
+427.  stood --🐫
+428.  contain🎄
 429.  front
 430.  teach
 431.  week
-432.  final
-433.  gave
+432.  final ----2🍄
+433.  gave🍄
 434.  green
 435.  oh
 436.  quick
-437.  develop
+437.  develop🍄
 438.  sleep
 439.  warm
 440.  free
 441.  minute
 442.  strong
-443.  special
+443.  special🍄
 444.  mind
 445.  behind
 446.  clear
 447.  tail
-448.  produce
+448.  produce -🍄
 449.  fact
 450.  street
-451.  inch
+451.  inch🍄
 452.  lot
 453.  nothing
 454.  course
-455.  stay
+455.  stay -🍎
 456.  wheel
 457.  full
-458.  force
+458.  force -🍎
 459.  blue
 460.  object
-461.  decide
-462.  surface
+461.  decide🍎
+462.  surface🍎
 463.  deep
 464.  moon
 465.  island
@@ -478,16 +478,16 @@ E-Mail and Address
 467.  yet
 468.  busy
 469.  test
-470.  record
+470.  record🍊
 471.  boat
 472.  common
 473.  gold
-474.  possible
+474.  possible -🍉
 475.  plane
 476.  age
 477.  dry
-478.  wonder
-479.  laugh
+478.  wonder🍎
+479.  laugh🧄
 480.  thousand
 481.  ago
 482.  ran
@@ -497,16 +497,16 @@ E-Mail and Address
 486.  yes
 487.  hot
 488.  miss
-489.  brought
+489.  brought🍑
 490.  heat
 491.  snow
 492.  bed
-493.  bring
+493.  bring --🍩
 494.  sit
-495.  perhaps
-496.  fill
+495.  perhaps -⛳️
+496.  fill 🏓🎱
 497.  east
-498.  weight
+498.  weight -🤽🏻
 499.  language
-500.  among
+500.  among 🏋🏽‍♀️
 
