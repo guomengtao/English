@@ -14,8 +14,8 @@ This list contains, among many others, the most common English verbs and the mos
 
 a  
 about  
-act  
-actually  
+act  🛹
+actually  🛼
 add  
 after  
 again  
@@ -27,7 +27,7 @@ all
 also  
 always  
 am  
-among  
+among  🏅
 an  
 and  
 animal  
@@ -44,7 +44,7 @@ at
 
 back  
 ball  
-base  
+base  🤼‍♀️
 be  
 beauty  
 because  
@@ -54,7 +54,7 @@ been
 before  
 began  
 begin  
-behind  
+behind  🥊
 best  
 better  
 better  
@@ -67,13 +67,13 @@ boat
 body  
 book  
 both  
-bottom  
+bottom  🤿
 box  
 boy  
-bring  
-brought  
+bring  🥋
+brought  🎽
 build  
-built  
+built  🛼
 busy  
 but  
 by
@@ -86,9 +86,9 @@ can
 car  
 care  
 carefully  
-carry  
-centre  
-certain  
+carry  🏄🏼‍♀️
+centre  🥇
+certain  🥈
 change  
 check  
 child  
@@ -98,18 +98,18 @@ class
 clear  
 close  
 cold  
-colour  
+colour  🚴🏿‍♂️
 come  
 common  
 community  
 complete  
-contain  
+contain  🏆
 could  
 country  
 course  
 create  
-cried  
-cross  
+cried  🏅
+cross  🎖
 cry  
 cut
 
@@ -117,8 +117,8 @@ cut
 
 dark  
 day  
-decide  
-decided  
+decide  🏵
+decided  🎗
 deep  
 develop  
 did  
@@ -134,7 +134,7 @@ draw
 dream  
 drive  
 dry  
-during
+during🎫
 
 ## E
 
@@ -144,18 +144,18 @@ earth
 east  
 easy  
 eat  
-effort  
+effort 🤹‍♀️ 
 enough  
 every  
 example  
 experience  
-explain  
+explain  🎤
 eye
 
 ## F
 
 face  
-fact
+fact🚗
 
 false  
 family  
@@ -164,9 +164,9 @@ farm
 fast  
 father  
 feel  
-feet  
+feet  🚕
 few  
-field  
+field  🚙
 find  
 fire  
 first  
@@ -176,7 +176,7 @@ fly
 follow  
 food  
 form  
-found  
+found  🛴
 four  
 friend  
 from  
@@ -248,7 +248,7 @@ just
 keep  
 kind  
 king  
-knew  
+knew  🪕
 know  
 known
 
@@ -260,7 +260,7 @@ large
 last  
 late  
 later  
-laugh  
+laugh  ♟
 lead  
 learn  
 leave  
@@ -293,9 +293,9 @@ map
 mark  
 may  
 mean  
-measure  
+measure  🚒
 men  
-might  
+might  🛞
 mile  
 million  
 mind  
@@ -319,7 +319,7 @@ my
 ## N
 
 name  
-nation  
+nation  🛺
 near  
 need  
 never  
@@ -364,7 +364,7 @@ part
 pass  
 passed  
 people  
-perhaps  
+perhaps  🚠
 person  
 picture  
 place  
@@ -374,7 +374,7 @@ plant
 play  
 point  
 power  
-probably  
+probably  🚧
 problem  
 product  
 provide  
@@ -387,21 +387,21 @@ question
 quick  
 rain  
 ran  
-reach  
+reach  🚇
 read  
 ready  
 real  
-receive  
+receive  🛰
 record  
 red  
-relationship  
+relationship  🚢
 remember  
 right  
 river  
 road  
 rock  
 room  
-round  
+round  ⚓️
 rule  
 run
 
@@ -422,8 +422,8 @@ self
 sentence  
 serve  
 set  
-several  
-shape  
+several  🏟
+shape  🪙
 she  
 ship  
 short  
@@ -460,7 +460,7 @@ star
 start  
 stay  
 step  
-stood  
+stood  💎
 stop  
 story  
 street  
@@ -484,7 +484,7 @@ than
 that  
 the  
 their  
-them  
+them  💸
 then  
 there  
 these  
@@ -493,14 +493,14 @@ thing
 think  
 this  
 those  
-though  
-thought  
+though  💵💵💵💵
+thought  💴
 thousand  
 three
 
 ## T CONTINUED…
 
-through  
+through  💶💶💶💶
 time  
 to  
 together  
@@ -508,8 +508,8 @@ told
 too  
 took  
 top  
-toward  
-town  
+toward  🔫🔫🔫
+town  🧲
 travel  
 tree  
 try
@@ -524,13 +524,13 @@ under
 understand  
 until  
 up  
-upon  
+upon  💣💣
 us  
 use  
 usual  
 very  
 voice  
-vowel
+vowel💈
 
 ## W
 
@@ -546,7 +546,7 @@ wave
 way  
 we  
 week  
-weight  
+weight  💝💝💝🈶
 were  
 west  
 what  
@@ -563,12 +563,12 @@ will
 wind  
 winter  
 with  
-without  
+without  🎫❤️❤️🧡
 woman  
-wonder  
+wonder  💚💚💚
 wood  
 word  
-words  
+words  💙💙💙
 work  
 world  
 would  
