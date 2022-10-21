@@ -9,8 +9,8 @@ E-Mail and Address
 
 ## A list of the 500 most used words
 
-1.  the
-2.  of
+1.  the ✓
+2.  of 
 3.  to
 4.  and
 5.  a
@@ -108,7 +108,7 @@ E-Mail and Address
 97.  side
 98.  been
 99.  now
-100.  find
+100.  find     😁
 101.  any
 102.  new
 103.  work
@@ -116,7 +116,7 @@ E-Mail and Address
 105.  take
 106.  get
 107.  place
-108.  made
+108.  made     (Is it the pass of make ?)
 109.  live
 110.  where
 111.  after
@@ -148,10 +148,10 @@ E-Mail and Address
 137.  line
 138.  before
 139.  turn
-140.  cause
+140.  cause  😜
 141.  same
 142.  mean
-143.  differ
+143.  differ ?🤪
 144.  move
 145.  right
 146.  boy
@@ -173,7 +173,7 @@ E-Mail and Address
 162.  home
 163.  read
 164.  hand
-165.  port
+165.  port ?
 166.  large
 167.  spell
 168.  add
@@ -183,9 +183,9 @@ E-Mail and Address
 172.  must
 173.  big
 174.  high
-175.  such
+175.  such 🤪
 176.  follow
-177.  act
+177.  act🤪
 178.  why
 179.  ask
 180.  men
@@ -198,7 +198,7 @@ E-Mail and Address
 187.  house
 188.  picture
 189.  try
-190.  us
+190.  us     
 191.  again
 192.  animal
 193.  point
@@ -207,11 +207,11 @@ E-Mail and Address
 196.  near
 197.  build
 198.  self
-199.  earth
+199.  earth (not sure how to read)
 200.  father
 201.  head
 202.  stand
-203.  own
+203.  own🤓
 204.  page
 205.  should
 206.  country
@@ -232,7 +232,7 @@ E-Mail and Address
 221.  keep
 222.  eye
 223.  never
-224.  last
+224.  last🤓
 225.  door
 226.  between
 227.  city
@@ -260,7 +260,7 @@ E-Mail and Address
 249.  few
 250.  stop
 251.  open
-252.  seem
+252.  seem (what? )
 253.  together
 254.  next
 255.  white
@@ -269,7 +269,7 @@ E-Mail and Address
 258.  got
 259.  walk
 260.  example
-261.  ease
+261.  ease ++
 262.  paper
 263.  often
 264.  always
