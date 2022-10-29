@@ -1,3 +1,33 @@
+> Get new words meaning for some ways
+```
+ Note: I feel many word I could read that ,but can not sure how to write if.
+ I need more time to practice write these normal words .
+ This is my firt time to write some artice by english, It is have a lots wrong words . I am sorry!
+ I will try to let them crectt more. one word by one word .one setup by one setup .
+ Thanks! Tom Code
+```
+
+# First choose , To See the words images for some website
+Throught the photes to get the new word means, neve do not use your hometown languages .
+Connect the new word with his photes ,not your first langaes.
+
+[https://icons8.com/icons/set/rest](https://icons8.com/icons/set/rest)
+[https://stock.adobe.com/](https://stock.adobe.com/)
+[https://iconscout.com/icons/rest](https://iconscout.com/icons/rest)
+[https://iconfinder.com/](https://iconfinder.com/)
+Or Google images/shopping 
+If the word is a product ,We could searching on Amazon eabay  .
+
+# Check the word root meaning and history at the dictionary.
+[www.etymonline.com](https://www.etymonline.com)
+Or Added the erymoline chrome pluger to the Chrome ,it is really userfull.
+
+# Dictionay online
+
+# Youtube wach the video.
+
+
+
 ### Here are the 500 most commonly used words in the English language. Learn these and you will know more than two-third of all vocabulary in written English.
 
 # A list of the 500 most used words
