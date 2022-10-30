@@ -24,7 +24,12 @@ Or Added the erymoline chrome pluger to the Chrome ,it is really userfull.
 
 # Dictionay online
 
-# Youtube wach the video.
+# Watch the video.
+Enter your keyword with the search befor. 
+Keep safe. Evrytime when I opening the youtube for to check the new word mean, I checked the other video lost myself.
+> [YouTuBe Searching ](https://www.youtube.com/results?search_query=)
+So donot vist the homepage again , firstime get the "new word"searching list page.
+
 
 
 
