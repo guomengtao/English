@@ -11,10 +11,11 @@
 Throught the photes to get the new word means, neve do not use your hometown languages .
 Connect the new word with his photes ,not your first langaes.
 
-[https://icons8.com/icons/set/rest](https://icons8.com/icons/set/rest)
-[https://stock.adobe.com/](https://stock.adobe.com/)
-[https://iconscout.com/icons/rest](https://iconscout.com/icons/rest)
-[https://iconfinder.com/](https://iconfinder.com/)
+- [https://icons8.com/icons/set/rest](https://icons8.com/icons/set/rest)
+- [https://stock.adobe.com/](https://stock.adobe.com/)
+- [https://iconscout.com/icons/rest](https://iconscout.com/icons/rest)
+- [https://iconfinder.com/](https://iconfinder.com/)
+
 Or Google images/shopping 
 If the word is a product ,We could searching on Amazon eabay  .
 
