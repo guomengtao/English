@@ -12,7 +12,18 @@ we could meet a ne clear system
 # Set three figers could moving the dailog window for Mac
 
 Choose Apple menu  > System Settings (or System Preferences).
+
 Click Accessibility.
+
 Click Pointer Control (or Mouse & Trackpad).
+
 Click the Trackpad Options button.
+
 Turn on “Use trackpad for dragging” (or “Enable dragging”).
+
+# Download the Google Chrome 
+
+url : https://www.google.com/chrome/bsem/download/ 
+
+
+
