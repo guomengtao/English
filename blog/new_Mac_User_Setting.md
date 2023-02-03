@@ -21,7 +21,7 @@ Click the Trackpad Options button.
 
 Turn on “Use trackpad for dragging” (or “Enable dragging”).
 
-# Download the Google Chrome 
+### Download the Google Chrome (Find it on the Lauchpad )
 
 url : https://www.google.com/chrome/bsem/download/ 
 
